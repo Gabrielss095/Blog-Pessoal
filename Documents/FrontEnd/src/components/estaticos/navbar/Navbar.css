@@ -1,0 +1,14 @@
+.cursor{
+    cursor: pointer !important;
+    color: black !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+.vagalume{
+    background: #001d3d !important;
+}
+.barra{
+    width: 20px !important;
+}
